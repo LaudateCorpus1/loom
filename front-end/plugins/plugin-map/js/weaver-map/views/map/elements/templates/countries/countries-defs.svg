@@ -1,5 +1,1 @@
-<g id="defs-countries">
-  {{#paths}}
-    <path d="{{d}}" id="{{id}}"/>
-  {{/paths}}
-</g>
+<g id="defs-countries">{{#paths}}<path id="{{id}}" d="{{d}}"/>{{/paths}}</g>
