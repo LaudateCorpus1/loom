@@ -23,7 +23,7 @@
 	<packaging>jar</packaging>
 
 	<properties>
-		<spring.version>4.3.18.RELEASE</spring.version>
+		<spring.version>5.3.18</spring.version>
 		<spring-test.version>4.3.18.RELEASE</spring-test.version>
 		<spring-plugin-core.version>1.0.0.RELEASE</spring-plugin-core.version>
 		<checkstyle.config.location>../config/checkstyle-adapters.xml</checkstyle.config.location>
